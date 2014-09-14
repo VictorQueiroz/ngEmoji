@@ -1,0 +1,1 @@
+angular.module('ngEmoji.services', ['ngEmoji.services.emoji']);

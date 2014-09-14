@@ -1,0 +1,1 @@
+angular.module('ngEmoji.filters', ['ngEmoji.filters.emoji']);

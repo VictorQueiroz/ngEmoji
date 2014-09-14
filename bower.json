@@ -1,0 +1,22 @@
+{
+  "name": "ng-emoji",
+  "version": "0.0.1",
+  "authors": [
+    "Victor Queiroz <victorcqueirozg@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "emojify": "~0.9.4"
+  }
+}
